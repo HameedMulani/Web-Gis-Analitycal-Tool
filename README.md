@@ -24,10 +24,8 @@
 
 ### Technology Used
 - JavaScript 
-- Python
 - LeafLet for Mapping
-
-  
+- PHP
 - PostgreSQL
 - GeoServer Maps
 
